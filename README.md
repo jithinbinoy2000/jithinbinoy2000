@@ -30,12 +30,31 @@ I am a passionate **Full Stack Developer** specializing in building high-perform
 
 ---
 
+### 📊 The "Real" Developer Metrics
+
+| Metric | Level | Status |
+| :--- | :--- | :--- |
+| ☕ **Caffeine to Code Ratio** | `1:100` | ![Extremely High](https://img.shields.io/badge/Status-Overclocked-red?style=flat-square) |
+| 🐛 **Bugs Created vs Fixed** | `42:1` | ![In Progress](https://img.shields.io/badge/Status-It's_a_Feature-orange?style=flat-square) |
+| 🕒 **Productivity (3 AM)** | `9000+` | ![God Mode](https://img.shields.io/badge/Status-Legendary-brightgreen?style=flat-square) |
+| 📝 **StackOverflow Reliance** | `99.9%` | ![Stable](https://img.shields.io/badge/Status-Connected-blue?style=flat-square) |
+| 🧠 **Brain RAM Usage** | `98%` | ![Warning](https://img.shields.io/badge/Status-Out_of_Memory-yellow?style=flat-square) |
+| 💻 **"It works on my machine"** | `100%` | ![Certified](https://img.shields.io/badge/Status-Certified-success?style=flat-square) |
+
+---
+
+### 🛠️ Current Hardware Status
+<p align="left">
+  <img src="https://img.shields.io/badge/Battery-5%25-red?style=for-the-badge&logo=battery" /> 
+  <img src="https://img.shields.io/badge/Sleep-404_Not_Found-black?style=for-the-badge&logo=icloud" />
+  <img src="https://img.shields.io/badge/Wifi-Strong_Coffee-brown?style=for-the-badge&logo=coffeescript" />
+</p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithinbinoy&show_icons=true&theme=tokyonight&count_private=true" alt="Jithin's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinbinoy&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jithinbinoy2000&show_icons=true&theme=tokyonight&count_private=true" alt="Jithin's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinbinoy2000&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 </p>
 
 ---
