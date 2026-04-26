@@ -30,7 +30,7 @@ I am a passionate **Full Stack Developer** specializing in building high-perform
 
 ---
 
-### 📊 The "Real" Developer Metrics
+### 📊  Metrics
 
 | Metric | Level | Status |
 | :--- | :--- | :--- |
@@ -49,6 +49,8 @@ I am a passionate **Full Stack Developer** specializing in building high-perform
   <img src="https://img.shields.io/badge/Sleep-404_Not_Found-black?style=for-the-badge&logo=icloud" />
   <img src="https://img.shields.io/badge/Wifi-Strong_Coffee-brown?style=for-the-badge&logo=coffeescript" />
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -74,7 +76,7 @@ I am a passionate **Full Stack Developer** specializing in building high-perform
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&width=100$section=footer" />
 </p>
 
 <!--
