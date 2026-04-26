@@ -67,16 +67,16 @@ I am a passionate **Full Stack Developer** specializing in building high-perform
   <a href="mailto:jithinasdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/jithinbinoy">
+  <a href="https://www.linkedin.com/in/jithin-binoy2001">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/jithinbinoy">
+  <a href="https://github.com/jithinbinoy2000">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&width=100$section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&width=100&section=footer" />
 </p>
 
 <!--
